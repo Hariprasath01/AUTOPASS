@@ -10,7 +10,6 @@ unsigned long period = 120000,period1=20000;
 unsigned long time_now = 0,time_now1=0;
 String readString;  
 
-
 //SoftwareSerial MyBlue(0, 1);
 SoftwareSerial mySerial(8, 9);
 char flag = 0;
