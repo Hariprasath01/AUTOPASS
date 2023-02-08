@@ -250,7 +250,6 @@ if (digitalRead(A2) == 0)
 
   //flag="9";
   
-
  }
 
  if (digitalRead(A3) == 0)
