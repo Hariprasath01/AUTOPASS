@@ -185,7 +185,6 @@ if (readString == "google")
   readString="9";
   //break;
   
-  
  }
   if (readString == "instagram")
  {
